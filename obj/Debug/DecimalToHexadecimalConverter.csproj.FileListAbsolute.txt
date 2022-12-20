@@ -1,0 +1,8 @@
+C:\Users\Noah\source\repos\DecimalHexadecimalConverter\bin\Debug\DecimalHexadecimalConverter.exe.config
+C:\Users\Noah\source\repos\DecimalHexadecimalConverter\bin\Debug\DecimalHexadecimalConverter.exe
+C:\Users\Noah\source\repos\DecimalHexadecimalConverter\bin\Debug\DecimalHexadecimalConverter.pdb
+C:\Users\Noah\source\repos\DecimalHexadecimalConverter\obj\Debug\DecimalToHexadecimalConverter.csproj.AssemblyReference.cache
+C:\Users\Noah\source\repos\DecimalHexadecimalConverter\obj\Debug\DecimalToHexadecimalConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noah\source\repos\DecimalHexadecimalConverter\obj\Debug\DecimalToHexadecimalConverter.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\DecimalHexadecimalConverter\obj\Debug\DecimalHexadecimalConverter.exe
+C:\Users\Noah\source\repos\DecimalHexadecimalConverter\obj\Debug\DecimalHexadecimalConverter.pdb
